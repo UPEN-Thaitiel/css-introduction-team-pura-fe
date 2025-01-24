@@ -1,1 +1,35 @@
 /* Write your code here: */
+
+h1{
+    color: blueviolet;
+    font-size: 45px;
+}
+h2{
+    color: blueviolet;
+    font-size: 35px;
+}
+
+div p {
+    color: rgb(197, 1, 1);
+    font-size: 22px;
+    font-weight:500;
+}
+div ul{
+    font-size: 25px;
+}
+div li{
+    color: blue;
+}
+li.done{
+     color: green;
+}
+ul p{
+    font-size: 12px;
+    font-weight: normal;
+}
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
