@@ -1,3 +1,11 @@
+.color-title{
+    font-weight: normal;
+    
+}
+img{
+    width: 200px;
+    height: 200px;
+}
 #red {
     color: red;
 }
